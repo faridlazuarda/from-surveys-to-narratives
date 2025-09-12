@@ -1,0 +1,12 @@
+Adapter Culture,Test Culture,F1 Score
+llamainst,arabic,0.32241359919043855
+llamainst,"arabic,bengali,chinese,english,german,greek,korean,portuguese,spanish,turkish",0.5454638411653847
+llamainst,bengali,0.4867008346706959
+llamainst,chinese,0.38210213593803355
+llamainst,english,0.23003333375749357
+llamainst,german,0.33545369320253815
+llamainst,greek,0.30752081504774453
+llamainst,korean,0.27586659870936037
+llamainst,portuguese,0.46407161647278816
+llamainst,spanish,0.35525950067502254
+llamainst,turkish,0.19739492667617073

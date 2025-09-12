@@ -1,0 +1,134 @@
+Dataset,Category,Count
+WVS,arabic,1100
+WVS,bengali,1100
+WVS,chinese,1100
+WVS,english,1100
+WVS,german,1100
+WVS,greek,1100
+WVS,korean,1100
+WVS,portuguese,1101
+WVS,spanish,1100
+WVS,turkish,1100
+Cultural Context,arabic,257
+Cultural Context,bengali,127
+Cultural Context,chinese,388
+Cultural Context,english,434
+Cultural Context,german,171
+Cultural Context,greek,250
+Cultural Context,korean,150
+Cultural Context,portuguese,186
+Cultural Context,spanish,76
+Cultural Context,turkish,143
+NormAd,Overall,1133
+NormAd,argentina,33
+NormAd,australia,25
+NormAd,austria,33
+NormAd,bangladesh,33
+NormAd,brazil,32
+NormAd,canada,32
+NormAd,chile,35
+NormAd,china,36
+NormAd,colombia,32
+NormAd,cyprus,35
+NormAd,egypt,35
+NormAd,germany,43
+NormAd,greece,34
+NormAd,hong_kong,35
+NormAd,iraq,34
+NormAd,ireland,41
+NormAd,lebanon,26
+NormAd,mexico,34
+NormAd,new_zealand,42
+NormAd,palestinian_territories,34
+NormAd,peru,32
+NormAd,portugal,45
+NormAd,saudi_arabia,44
+NormAd,singapore,31
+NormAd,south_korea,27
+NormAd,spain,34
+NormAd,sudan,48
+NormAd,syria,18
+NormAd,taiwan,32
+NormAd,türkiye,35
+NormAd,united_kingdom,27
+NormAd,united_states_of_america,42
+NormAd,venezuela,34
+NormAd Tokens,TotalSamples,1133
+NormAd Tokens,TotalTokens,389537
+NormAd Tokens,AvgTokens,343.81
+NormAd Tokens,argentina - TotalTokens,9210
+NormAd Tokens,argentina - AvgTokens,279.09
+NormAd Tokens,australia - TotalTokens,11823
+NormAd Tokens,australia - AvgTokens,472.92
+NormAd Tokens,austria - TotalTokens,9008
+NormAd Tokens,austria - AvgTokens,272.97
+NormAd Tokens,bangladesh - TotalTokens,7659
+NormAd Tokens,bangladesh - AvgTokens,232.09
+NormAd Tokens,brazil - TotalTokens,9584
+NormAd Tokens,brazil - AvgTokens,299.50
+NormAd Tokens,canada - TotalTokens,9955
+NormAd Tokens,canada - AvgTokens,311.09
+NormAd Tokens,chile - TotalTokens,8070
+NormAd Tokens,chile - AvgTokens,230.57
+NormAd Tokens,china - TotalTokens,10331
+NormAd Tokens,china - AvgTokens,286.97
+NormAd Tokens,colombia - TotalTokens,8448
+NormAd Tokens,colombia - AvgTokens,264.00
+NormAd Tokens,cyprus - TotalTokens,12355
+NormAd Tokens,cyprus - AvgTokens,353.00
+NormAd Tokens,egypt - TotalTokens,8861
+NormAd Tokens,egypt - AvgTokens,253.17
+NormAd Tokens,germany - TotalTokens,12201
+NormAd Tokens,germany - AvgTokens,283.74
+NormAd Tokens,greece - TotalTokens,11606
+NormAd Tokens,greece - AvgTokens,341.35
+NormAd Tokens,hong_kong - TotalTokens,8890
+NormAd Tokens,hong_kong - AvgTokens,254.00
+NormAd Tokens,iraq - TotalTokens,14383
+NormAd Tokens,iraq - AvgTokens,423.03
+NormAd Tokens,ireland - TotalTokens,9397
+NormAd Tokens,ireland - AvgTokens,229.20
+NormAd Tokens,lebanon - TotalTokens,7888
+NormAd Tokens,lebanon - AvgTokens,303.38
+NormAd Tokens,mexico - TotalTokens,14011
+NormAd Tokens,mexico - AvgTokens,412.09
+NormAd Tokens,new_zealand - TotalTokens,22844
+NormAd Tokens,new_zealand - AvgTokens,543.90
+NormAd Tokens,palestinian_territories - TotalTokens,19831
+NormAd Tokens,palestinian_territories - AvgTokens,583.26
+NormAd Tokens,peru - TotalTokens,8569
+NormAd Tokens,peru - AvgTokens,267.78
+NormAd Tokens,portugal - TotalTokens,9438
+NormAd Tokens,portugal - AvgTokens,209.73
+NormAd Tokens,saudi_arabia - TotalTokens,26354
+NormAd Tokens,saudi_arabia - AvgTokens,598.95
+NormAd Tokens,singapore - TotalTokens,7776
+NormAd Tokens,singapore - AvgTokens,250.84
+NormAd Tokens,south_korea - TotalTokens,6784
+NormAd Tokens,south_korea - AvgTokens,251.26
+NormAd Tokens,spain - TotalTokens,14269
+NormAd Tokens,spain - AvgTokens,419.68
+NormAd Tokens,sudan - TotalTokens,19058
+NormAd Tokens,sudan - AvgTokens,397.04
+NormAd Tokens,syria - TotalTokens,6330
+NormAd Tokens,syria - AvgTokens,351.67
+NormAd Tokens,taiwan - TotalTokens,8991
+NormAd Tokens,taiwan - AvgTokens,280.97
+NormAd Tokens,türkiye - TotalTokens,15391
+NormAd Tokens,türkiye - AvgTokens,439.74
+NormAd Tokens,united_kingdom - TotalTokens,6051
+NormAd Tokens,united_kingdom - AvgTokens,224.11
+NormAd Tokens,united_states_of_america - TotalTokens,22074
+NormAd Tokens,united_states_of_america - AvgTokens,525.57
+NormAd Tokens,venezuela - TotalTokens,12097
+NormAd Tokens,venezuela - AvgTokens,355.79
+Offensiveness,arabic,2000
+Offensiveness,bengali,3000
+Offensiveness,greek,1000
+Offensiveness,english,1000
+Offensiveness,german,3531
+Offensiveness,korean,1000
+Offensiveness,portuguese,1250
+Offensiveness,spanish,1000
+Offensiveness,turkish,3528
+Offensiveness,Total,17309

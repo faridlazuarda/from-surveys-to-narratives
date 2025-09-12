@@ -1,0 +1,12 @@
+Adapter Culture,Test Culture,F1 Score
+llama,arabic,0.5240682750631213
+llama,"arabic,bengali,chinese,english,german,greek,korean,portuguese,spanish,turkish",0.4971400561510477
+llama,bengali,0.5115180538895986
+llama,chinese,0.5177316568974114
+llama,english,0.4880712141962473
+llama,german,0.5009211880827779
+llama,greek,0.5251527634132068
+llama,korean,0.5266273606669103
+llama,portuguese,0.5186449868389714
+llama,spanish,0.5331228774451539
+llama,turkish,0.5079862350497071

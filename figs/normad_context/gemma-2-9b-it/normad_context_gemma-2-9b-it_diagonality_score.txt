@@ -1,0 +1,1 @@
+New Diagonality Score (average of normalized diagonals): 0.8251

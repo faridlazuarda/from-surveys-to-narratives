@@ -1,0 +1,12 @@
+Adapter Culture,Test Culture,F1 Score
+qwen,arabic,0.6848813488609931
+qwen,"arabic,bengali,chinese,english,german,greek,korean,portuguese,spanish,turkish",0.673680908973592
+qwen,bengali,0.6838270296692155
+qwen,chinese,0.6862536918312727
+qwen,english,0.6797959604053945
+qwen,german,0.6731027534059447
+qwen,greek,0.6850348095241058
+qwen,korean,0.682408209212465
+qwen,portuguese,0.6857904074539025
+qwen,spanish,0.6903178118011586
+qwen,turkish,0.6803326236492495
