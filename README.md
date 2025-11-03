@@ -113,16 +113,16 @@ bash script/compute_cdist.sh \
 
 We measure how well each culture-specific adapter performs **best on its own culture**.
 
-For (n) cultures, let (M\in\mathbb{R}^{n\times n}) be the F1-score matrix
-(rows = adapter culture, cols = test culture):
+For \( n \) cultures, let \( M \in \mathbb{R}^{n \times n} \) be the F1-score matrix  
+(rows = adapter culture, columns = test culture):
 
-[
+\[
 n_i = \frac{M_{i,i}}{\max_j M_{j,i}}, \quad
-D = \frac{1}{n}\sum_i n_i
-]
+D = \frac{1}{n} \sum_i n_i
+\]
 
-* **D ≈ 1.0 → distinct cultural behaviors**
-* **Low D → homogenization / cultural interference**
+- **\( D \approx 1.0 \)** → distinct cultural behaviors  
+- **Low \( D \)** → homogenization / cultural interference
 
 ---
 
